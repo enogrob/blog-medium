@@ -11,7 +11,7 @@ Solution Integrator Experienced - Certified by Ericsson
 
 This is my official Blog for interesting things about all.
 
-![homepage](https://medium.com/@enogrob)
+[homepage](https://medium.com/@enogrob)
 
 ## Posts
 
