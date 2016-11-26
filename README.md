@@ -16,6 +16,7 @@ This is my official Blog for interesting things about all.
 ## Posts
 
 ```
+[x] 2016-11-26 Elixir :: In times of Microservices
 [x] 2016-11-20 SoloLearn :: Learning code like duolingo app style 
 [x] 2016-11-19 Cling :: The Interative C++ Interpreter
 [x] 2016-11-05 Opal :: Console Chrome Extension
