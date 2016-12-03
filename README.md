@@ -16,6 +16,7 @@ This is my official Blog for interesting things about all.
 ## Posts
 
 ```
+[x] 2016-12-03 Svelte :: Framework without the framework
 [x] 2016-11-27 PowerShell :: Microsoft open sources it and brings it to Linux and Mac OS
 [x] 2016-11-26 Elixir :: In times of Microservices
 [x] 2016-11-20 SoloLearn :: Learning code like duolingo app style 
