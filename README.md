@@ -16,6 +16,7 @@ This is my official Blog for interesting things about all.
 ## Posts
 
 ```
+[x] 2016-12-18 RailsApps :: updates for Rails 5.0
 [x] 2016-12-17 IDE Features Trainer :: A New Way to Learn Your IDE
 [x] 2016-12-10 Choosy :: opens every link in the right browser
 [x] 2016-12-04 Elm :: Why? Its own conf has started
