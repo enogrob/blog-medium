@@ -16,6 +16,7 @@ This is my official Blog for interesting things about all.
 ## Posts
 
 ```
+[x] 2017-01-01 Epichrome :: how to turn Web Services into Mac apps
 [x] 2016-12-31 Futurelearn :: to make its expertise in Erlang available to futurelearn's 5 million-learners
 [x] 2016-12-18 RailsApps :: updates for Rails 5.0
 [x] 2016-12-17 IDE Features Trainer :: A New Way to Learn Your IDE
