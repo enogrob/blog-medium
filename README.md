@@ -16,6 +16,7 @@ This is my official Blog for interesting things about all.
 ## Posts
 
 ```
+[x] 2017-01-23 Opera Neon :: A concept browser built for the future of the web
 [x] 2017-01-21 Exercism :: GitHub project of the week by SD Times
 [x] 2017-01-15 Code2Flow :: The simplest way to create flowcharts
 [x] 2017-01-01 Epichrome :: how to turn Web Services into Mac apps
